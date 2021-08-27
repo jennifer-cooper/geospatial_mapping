@@ -1,5 +1,5 @@
 # Geospatial Mapping
-Code and output snapshots of geographical visualisations
+Example code and output snapshots of geographical visualisations
 
 Upload of example code to generate a Shiny app with a daily user slider to show how the cumulative number of COVID-19 cases changes over time.
 
